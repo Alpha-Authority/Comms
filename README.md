@@ -52,7 +52,7 @@ Requirements to Join AA's Discord
 
 Joining AA's Discord:
 
-* After logging into your Discord and making sure you have verified your email on your account, join our server using the invite link below. No worries, its hosted by discordapp.com, just a shortened a link.
+* After logging into your Discord account and making sure you have verified your email on your account, join our server using the invite link below. No worries, its hosted by discordapp.com, just a shortened a link.
   * [https://discord.gg/F2UMmyV](https://discord.gg/F2UMmyV) // Server Invitation
 
 ## Getting Permissions
