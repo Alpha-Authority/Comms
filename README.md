@@ -126,8 +126,7 @@ All users are subject to Disciplinary Action, as dictated here and at the discre
    * Exception to the \#memes & \#music & \#commands 
 4. Post your messages in the correct channels.
    * Memes should go in \#memes, Music should go in \#music, all bot commands should go in \#commands, etc. 
-5. Posting any media that identifies someones' personal identity,
-   *   Leads to an automatic ban. 
+5. Posting any media that identifies someones' personal identity, leads to an automatic ban. 
 6. No illegal content. These will all lead to an automatic ban.
 
    * Pirated Material, Hacks, Exploits
@@ -135,8 +134,9 @@ All users are subject to Disciplinary Action, as dictated here and at the discre
    * IP Grabbers.
    * DDoSing
 
-7.  Disturbing content results in an automatic ban. 
-8. Violating the Discord Community Guidelines & Terms of Service + Roblox Community Guidelines & Terms of Service, will lead to quick moderation in according with their principles.
+7.  Disturbing content results in an automatic ban 
+8. Organizing Discord Raids results in an automatic ban. 
+9. Violating the Discord Community Guidelines & Terms of Service + Roblox Community Guidelines & Terms of Service, will lead to quick moderation in according with their principles.
 
 ### Moderation
 
@@ -156,7 +156,15 @@ Alpha Authority has a moderation system which counts the \# of fractures a user 
 
 * If the user hasn't been banned once yet, then the first 4 fractures will be disreguarded after a months time.
 * If the user has been banned once, their returns' second ban result will skip to the Post-Final Fracture.
-* If the user has been banned twice, their returns' third ban will skip to the Final   In regards to certain rules, breaking,
-  * Rule 2, twice, will result in a ban.
-  * 
+* If the user has been banned twice, their returns' third ban will skip to the Final Fracture.   
+  
+  In regards to certain rules,
+
+  * Breaking Rules 5, 6, 7, once, Will lead to an automatic ban. Break
+  * Breaking Rule 8, Can lead to an Automatic Ban.
+  * Breaking Rule 1, Can lead to an Automatic Ban.
+    * Personal Attacks, Excessive Hate Speech, Death Threats, etc. Will lead to an Automatic Ban.
+
+  
+  Rule 7. is a rule which can be in the form of text, images, links, media, files.. anything of an explict nature, which shouldn't be said on discord, or glorified in real life. This can pertain to radicial acts of violence, hurtful content, representation of minors, abusive behavior, and more.. For the safety of other users, and everyone around the world, we will ban you, and then report you to Discord via their ticket system if you are found with any disturbing content like this.
 
