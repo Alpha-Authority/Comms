@@ -78,7 +78,7 @@ Each role that requires you to verify has a different verification process.
   * Say -&gt;verify
   * Say your username
   * Say yes
-  * Use the code given in your profile STATUS, not description. At the top right of your profile area on your profile, you can update it through the three dots.
+  * Use the code given by the bot, in your profile STATUS, not description. At the top right of your profile area on your profile, you can update it through the three dots.
   * Say done
 
 ![Profile US](.gitbook/assets/image.png)
