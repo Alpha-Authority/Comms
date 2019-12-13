@@ -35,7 +35,6 @@ Information on how to join is found below.
 * All users who make infractures against our rules, will be moderated according to their moderation history, and due process for moderation.
 * Our group officials are not to be disrespected or talked back to, for their moderation upon players, in public, DMs, or any other communication form. 
 * If you think a official made a mistake in their moderation, contact someone in the Officer Core or above.
-* Thank you for reading
 
 ### How to Join:
 
