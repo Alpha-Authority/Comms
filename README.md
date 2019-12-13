@@ -60,7 +60,7 @@ Joining AA's Discord:
 
 ### Basics
 
-After joining our Discord Server, you'll need to request permissions to join the server. Go to \#verify, read below for further instructions
+After joining our Discord Server, you'll need to request permissions to join the server. Go to \#verify, and read below for further instructions, a bot will help you along the way.
 
 These are the intial roles you can obtain.
 
