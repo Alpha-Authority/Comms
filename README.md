@@ -60,7 +60,7 @@ Joining AA's Discord:
 
 ### Basics
 
-After joining our Discord Server, you'll need to request permissions to join the server. Go to \#request-permissions, read below for further instructions
+After joining our Discord Server, you'll need to request permissions to join the server. Go to \#verify, read below for further instructions
 
 These are the intial roles you can obtain.
 
@@ -75,7 +75,7 @@ These are the intial roles you can obtain.
 Each role that requires you to verify has a different verification process.
 
 * Group Member:
-  * Go to \#request-permissions
+  * Go to \#verify
   * Say -&gt;verify
   * Say your username
   * Say yes
@@ -102,7 +102,7 @@ As previously said above,
 
 Our staff has the right to give/take permissions from you at any given time, and it is essential that if you want to stay in our server, that you adhere to our rules. We just want to have a good time, and not have too much hastle or conflict with others.
 
-Gaining access is as simple as the agreement you make, by reacting to the message found in the access channel. By reacting, you'll have access to our community and be able to see our resources, services, activity, developements, events, and much more. 
+Gaining access is as simple as the agreement you make, by reacting to the message found in the \#access channel. By reacting, you'll have access to our community and be able to see our resources, services, activity, developements, events, and much more. 
 
 We hope you enjoy being apart of our Community & Communications server, thank you for reading!  
 
