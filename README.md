@@ -161,7 +161,7 @@ Alpha Authority has a moderation system which counts the \# of fractures a user 
   
   In regards to certain rules,
 
-  * Breaking Rules 5, 6, 7, once, Will lead to an automatic ban. Break
+  * Breaking Rules 5, 6, 7, once, Will lead to an automatic ban.
   * Breaking Rule 8, Can lead to an Automatic Ban.
   * Breaking Rule 1, Can lead to an Automatic Ban.
     * Personal Attacks, Excessive Hate Speech, Death Threats, etc. Will lead to an Automatic Ban.
