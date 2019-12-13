@@ -41,7 +41,7 @@ Information on how to join is found below.
 Joining Discordapp.com
 
 * Go to [https://discordapp.com/login](https://discordapp.com/login)
-* Create an Account or Login // How to Join Discordapp
+* Create an Account or Login // How to Join Discord
   * [https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started](https://support.discordapp.com/hc/en-us/articles/219470277-Getting-Started)
 
 Requirements to Join AA's Discord
