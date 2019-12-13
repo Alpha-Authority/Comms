@@ -6,7 +6,7 @@ description: >-
 
 # Discord Guide
 
-Our Community Server
+## Our Community Server
 
 Alpha Authority uses a a variety of platforms in its social network, but our most important one is on a website called discordapp.com, also known as Discord.  
   
