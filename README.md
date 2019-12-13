@@ -8,17 +8,14 @@ description: >-
 
 ## Quick Links
 
-_Communications Guide \(GitHub\)_
+_Communications Guide \(GitBook\)_  
+[_https://alpha-authority.gitbook.io/communications/_](https://alpha-authority.gitbook.io/communications/)\_\_
 
-{% embed url="https://github.com/Alpha-Authority/Comms" %}
+_Communications Guide \(GitHub\)_  
+[_https://github.com/Alpha-Authority/Comms_](https://github.com/Alpha-Authority/Comms)\_\_
 
-_Communications Guide \(GitBook\)_
-
-{% embed url="https://alpha-authority.gitbook.io/communications/" %}
-
-_Site Directory_
-
-{% embed url="https://devforum.roblox.com/t/aa-site-directory-1-7v/406463" %}
+_Site Directory_  
+[_https://devforum.roblox.com/t/aa-site-directory-1-7v/406463_](https://devforum.roblox.com/t/aa-site-directory-1-7v/406463)\_\_
 
 ## Our Community Server
 
