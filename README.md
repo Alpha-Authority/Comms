@@ -129,13 +129,34 @@ All users are subject to Disciplinary Action, as dictated here and at the discre
 5. Posting any media that identifies someones' personal identity,
    *   Leads to an automatic ban. 
 6. No illegal content. These will all lead to an automatic ban.
+
    * Pirated Material, Hacks, Exploits
    * Malicious Files, Links,
    * IP Grabbers.
-   * DDoSing 
-7. Violating the Discord Community Guidelines & Terms of Service + Roblox Community Guidelines & Terms of Service, will lead to quick moderation in according with their principles.
+   * DDoSing
+
+7.  Disturbing content results in an automatic ban. 
+8. Violating the Discord Community Guidelines & Terms of Service + Roblox Community Guidelines & Terms of Service, will lead to quick moderation in according with their principles.
 
 ### Moderation
 
+Alpha Authority has a moderation system which counts the \# of fractures a user has made against the rules, as well as a clean slate regulatory. If necessary, punishments can vary depending on the situtuation.
 
+#### Fracture System
+
+* First Fracture - The user is warned, and any media or hurtful information is logged, then deleted.
+* Second Fracture - The user is muted, at a minimum of 1 hour.
+* Third Fracture - The user is muted again, at a minimum of 24 hours.
+* Forth Fracture - The user is put in quarantine, and won't be allowed out until Oversight says otherwise.
+* Fifth Fracture - The user is banned for the rest of the remaining month.  After repeating the process for when the user was unbanned, the Fifth Fracture is skipped, and goes on to the Post-Final Fracture, coming next to the conclusion. 
+* Post-Final Fracture - The user is banned for the rest of the year.
+* Final Fracture - The user is banned forever.
+
+#### Clean Slate Regulation
+
+* If the user hasn't been banned once yet, then the first 4 fractures will be disreguarded after a months time.
+* If the user has been banned once, their returns' second ban result will skip to the Post-Final Fracture.
+* If the user has been banned twice, their returns' third ban will skip to the Final   In regards to certain rules, breaking,
+  * Rule 2, twice, will result in a ban.
+  * 
 
