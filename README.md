@@ -118,7 +118,7 @@ Overlord Scrizeebe
 All users are subject to Disciplinary Action, as dictated here and at the discretion of Group Officials.
 
 1. Be Respectful.
-   * Discriminatinon, Harassment, Encouragement of Bullying, Impersonation, etc. is not allowed.
+   * Discrimination, Harassment, Encouragement of Bullying, Impersonation, etc. is not allowed.
    * Death threats lead to an automatic ban. 
 2. No NSFW 
    * Includes Gore
