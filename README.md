@@ -6,6 +6,20 @@ description: >-
 
 # Discord Guide
 
+## Quick Links
+
+_Communications Guide \(GitHub\)_
+
+{% embed url="https://github.com/Alpha-Authority/Comms" %}
+
+_Communications Guide \(GitBook\)_
+
+{% embed url="https://alpha-authority.gitbook.io/communications/" %}
+
+_Site Directory_
+
+{% embed url="https://devforum.roblox.com/t/aa-site-directory-1-7v/406463" %}
+
 ## Our Community Server
 
 Alpha Authority uses a a variety of platforms in its social network, but our most important one is on a website called discordapp.com, also known as Discord.  
@@ -43,7 +57,7 @@ Requirements to Join AA's Discord
 Joining AA's Discord:
 
 * After logging into your Discord and making sure you have verified your email on your account, join our server using the invite link below. No worries, its hosted by discordapp.com, just a shortened a link.
-  * [https://discord.gg/Xqfg4JE](https://discord.gg/Xqfg4JE) // Server Invitation
+  * [https://discord.gg/F2UMmyV](https://discord.gg/F2UMmyV) // Server Invitation
 
 ## Getting Permissions
 
