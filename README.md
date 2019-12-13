@@ -110,3 +110,32 @@ We hope you enjoy being apart of our Community & Communications server, thank yo
 Sincerely,  
 Overlord Scrizeebe
 
+## Server Regulations
+
+### Rules
+
+All users are subject to Disciplinary Action, as dictated here and at the discretion of Group Officials.
+
+1. Be Respectful.
+   * Discriminatinon, Harassment, Encouragement of Bullying, Impersonation, etc. is not allowed.
+   * Death threats lead to an automatic ban. 
+2. No NSFW 
+   * Includes Gore
+   * Includes Media & Memes & Links   
+3. No spamming
+   * Exception to the \#memes & \#music & \#commands 
+4. Post your messages in the correct channels.
+   * Memes should go in \#memes, Music should go in \#music, all bot commands should go in \#commands, etc. 
+5. Posting any media that identifies someones' personal identity,
+   *   Leads to an automatic ban. 
+6. No illegal content. These will all lead to an automatic ban.
+   * Pirated Material, Hacks, Exploits
+   * Malicious Files, Links,
+   * IP Grabbers.
+   * DDoSing 
+7. Violating the Discord Community Guidelines & Terms of Service + Roblox Community Guidelines & Terms of Service, will lead to quick moderation in according with their principles.
+
+### Moderation
+
+
+
